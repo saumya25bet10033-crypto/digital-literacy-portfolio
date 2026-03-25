@@ -31,10 +31,10 @@ I prepared a case study on phishing and created a prevention checklist for stude
 
 ## Links
 
-Google Form Link:
+Google Form Link:https://docs.google.com/forms/d/e/1FAIpQLSerzlQEBnm7_UwX7crgVIhO608sCEavGWK8gkGeBnnf0ND9yA/viewform?usp=header
 
 
-GitHub Repository:
+GitHub Repository:https://github.com/saumya25bet10033-crypto/digital-literacy-portfolio
 
 
 ## Learning Outcome
